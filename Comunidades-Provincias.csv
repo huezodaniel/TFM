@@ -1,17 +1,17 @@
 Codigo;CCAA;Provincia
 AN;Andalucía;Huelva
-AN;Andalucía;Cádiz
+AN;Andalucía;Cadiz
 AN;Andalucía;Sevilla
-AN;Andalucía;Jaén
-AN;Andalucía;Córdoba
-AN;Andalucía;Málaga
-AN;Andalucía;Almería
+AN;Andalucía;Jaen
+AN;Andalucía;Cordoba
+AN;Andalucía;Malaga
+AN;Andalucía;Almeria
 AN;Andalucía;Granada
 AR;Aragón;Huesca
 AR;Aragón;Teruel
 AR;Aragón;Zaragoza
 AS;Asturias, Principado de;Asturias
-CN;Canarias;Santa Cruz de Tenerife
+CN;Canarias;STA. CRUZ DE TENERIFE
 CN;Canarias;Las Palmas
 CB;Cantabria;Cantabria
 CM;Castilla - La Mancha;Guadalajara
@@ -23,9 +23,9 @@ CL;Castilla y León;Palencia
 CL;Castilla y León;Segovia
 CL;Castilla y León;Zamora
 CL;Castilla y León;Soria
-CL;Castilla y León;Ávila
+CL;Castilla y León;avila
 CL;Castilla y León;Valladolid
-CL;Castilla y León;León
+CL;Castilla y León;Leon
 CL;Castilla y León;Burgos
 CL;Castilla y León;Salamanca
 CT;Cataluña;Lleida
@@ -35,11 +35,11 @@ CT;Cataluña;Girona
 CE;Ceuta;Ceuta
 MD;Comunidad de Madrid;Madrid
 NC;Comunidad Foral de Navarra;Navarra
-VC;Comunitat Valenciana;Castelló
+VC;Comunitat Valenciana;Castello
 VC;Comunitat Valenciana;Alacant
-VC;Comunitat Valenciana;València
+VC;Comunitat Valenciana;Valencia
 EX;Extremadura;Badajoz
-EX;Extremadura;Cáceres
+EX;Extremadura;Caceres
 GA;Galicia;Lugo
 GA;Galicia;Ourense
 GA;Galicia;Pontevedra
