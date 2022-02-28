@@ -1,0 +1,780 @@
+,Edad,Sexo,Sector económico,Periodo,Total,num_casos
+371,55 y más años,Hombres,Agricultura,201901,11.4,0
+370,55 y más años,Hombres,Agricultura,201902,17.8,0
+369,55 y más años,Hombres,Agricultura,201903,17.5,0
+368,55 y más años,Hombres,Agricultura,201904,18.1,0
+367,55 y más años,Hombres,Agricultura,202001,17.0,78257
+366,55 y más años,Hombres,Agricultura,202002,20.1,92144
+365,55 y más años,Hombres,Agricultura,202003,17.7,572036
+364,55 y más años,Hombres,Agricultura,202004,18.0,1177854
+363,55 y más años,Hombres,Agricultura,202101,25.1,1319036
+362,55 y más años,Hombres,Agricultura,202102,13.7,534329
+361,55 y más años,Hombres,Agricultura,202103,21.9,1108678
+360,55 y más años,Hombres,Agricultura,202104,15.0,1825734
+395,55 y más años,Hombres,Construcción,201901,16.8,0
+394,55 y más años,Hombres,Construcción,201902,16.3,0
+393,55 y más años,Hombres,Construcción,201903,18.3,0
+392,55 y más años,Hombres,Construcción,201904,21.5,0
+391,55 y más años,Hombres,Construcción,202001,17.9,78257
+390,55 y más años,Hombres,Construcción,202002,23.4,92144
+389,55 y más años,Hombres,Construcción,202003,21.9,572036
+388,55 y más años,Hombres,Construcción,202004,22.2,1177854
+387,55 y más años,Hombres,Construcción,202101,27.9,1319036
+386,55 y más años,Hombres,Construcción,202102,17.9,534329
+385,55 y más años,Hombres,Construcción,202103,19.3,1108678
+384,55 y más años,Hombres,Construcción,202104,17.2,1825734
+383,55 y más años,Hombres,Industria,201901,12.5,0
+382,55 y más años,Hombres,Industria,201902,13.3,0
+381,55 y más años,Hombres,Industria,201903,12.4,0
+380,55 y más años,Hombres,Industria,201904,9.9,0
+379,55 y más años,Hombres,Industria,202001,12.7,78257
+378,55 y más años,Hombres,Industria,202002,17.9,92144
+377,55 y más años,Hombres,Industria,202003,17.3,572036
+376,55 y más años,Hombres,Industria,202004,15.7,1177854
+375,55 y más años,Hombres,Industria,202101,11.4,1319036
+374,55 y más años,Hombres,Industria,202102,9.0,534329
+373,55 y más años,Hombres,Industria,202103,10.3,1108678
+372,55 y más años,Hombres,Industria,202104,8.9,1825734
+419,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201901,153.2,0
+418,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201902,153.7,0
+417,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201903,136.6,0
+416,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201904,145.5,0
+415,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202001,140.8,78257
+414,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202002,120.0,92144
+413,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202003,137.9,572036
+412,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202004,145.0,1177854
+411,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202101,139.4,1319036
+410,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202102,175.5,534329
+409,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202103,190.2,1108678
+408,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202104,164.1,1825734
+407,55 y más años,Hombres,Servicios,201901,55.8,0
+406,55 y más años,Hombres,Servicios,201902,52.4,0
+405,55 y más años,Hombres,Servicios,201903,51.0,0
+404,55 y más años,Hombres,Servicios,201904,60.8,0
+403,55 y más años,Hombres,Servicios,202001,58.2,78257
+402,55 y más años,Hombres,Servicios,202002,63.0,92144
+401,55 y más años,Hombres,Servicios,202003,61.8,572036
+400,55 y más años,Hombres,Servicios,202004,64.9,1177854
+399,55 y más años,Hombres,Servicios,202101,69.1,1319036
+398,55 y más años,Hombres,Servicios,202102,53.1,534329
+397,55 y más años,Hombres,Servicios,202103,51.3,1108678
+396,55 y más años,Hombres,Servicios,202104,51.1,1825734
+11,De 16 a 19 años,Hombres,Agricultura,201901,3.3,0
+10,De 16 a 19 años,Hombres,Agricultura,201902,5.5,0
+9,De 16 a 19 años,Hombres,Agricultura,201903,5.7,0
+8,De 16 a 19 años,Hombres,Agricultura,201904,3.9,0
+7,De 16 a 19 años,Hombres,Agricultura,202001,4.6,78257
+6,De 16 a 19 años,Hombres,Agricultura,202002,4.3,92144
+5,De 16 a 19 años,Hombres,Agricultura,202003,5.9,572036
+4,De 16 a 19 años,Hombres,Agricultura,202004,5.0,1177854
+3,De 16 a 19 años,Hombres,Agricultura,202101,4.8,1319036
+2,De 16 a 19 años,Hombres,Agricultura,202102,3.3,534329
+1,De 16 a 19 años,Hombres,Agricultura,202103,4.2,1108678
+0,De 16 a 19 años,Hombres,Agricultura,202104,3.3,1825734
+35,De 16 a 19 años,Hombres,Construcción,201901,1.8,0
+34,De 16 a 19 años,Hombres,Construcción,201902,1.8,0
+33,De 16 a 19 años,Hombres,Construcción,201903,2.0,0
+32,De 16 a 19 años,Hombres,Construcción,201904,1.7,0
+31,De 16 a 19 años,Hombres,Construcción,202001,0.6,78257
+30,De 16 a 19 años,Hombres,Construcción,202002,1.6,92144
+29,De 16 a 19 años,Hombres,Construcción,202003,1.8,572036
+28,De 16 a 19 años,Hombres,Construcción,202004,0.9,1177854
+27,De 16 a 19 años,Hombres,Construcción,202101,1.3,1319036
+26,De 16 a 19 años,Hombres,Construcción,202102,0.8,534329
+25,De 16 a 19 años,Hombres,Construcción,202103,4.1,1108678
+24,De 16 a 19 años,Hombres,Construcción,202104,3.1,1825734
+23,De 16 a 19 años,Hombres,Industria,201901,1.3,0
+22,De 16 a 19 años,Hombres,Industria,201902,3.2,0
+21,De 16 a 19 años,Hombres,Industria,201903,2.1,0
+20,De 16 a 19 años,Hombres,Industria,201904,2.8,0
+19,De 16 a 19 años,Hombres,Industria,202001,3.2,78257
+18,De 16 a 19 años,Hombres,Industria,202002,3.6,92144
+17,De 16 a 19 años,Hombres,Industria,202003,2.7,572036
+16,De 16 a 19 años,Hombres,Industria,202004,2.1,1177854
+15,De 16 a 19 años,Hombres,Industria,202101,0.8,1319036
+14,De 16 a 19 años,Hombres,Industria,202102,5.2,534329
+13,De 16 a 19 años,Hombres,Industria,202103,1.7,1108678
+12,De 16 a 19 años,Hombres,Industria,202104,3.6,1825734
+59,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201901,41.2,0
+58,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201902,45.6,0
+57,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201903,49.9,0
+56,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201904,43.0,0
+55,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202001,42.2,78257
+54,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202002,33.5,92144
+53,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202003,53.1,572036
+52,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202004,47.8,1177854
+51,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202101,46.5,1319036
+50,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202102,60.5,534329
+49,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202103,59.0,1108678
+48,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202104,42.0,1825734
+47,De 16 a 19 años,Hombres,Servicios,201901,13.9,0
+46,De 16 a 19 años,Hombres,Servicios,201902,15.6,0
+45,De 16 a 19 años,Hombres,Servicios,201903,12.1,0
+44,De 16 a 19 años,Hombres,Servicios,201904,13.6,0
+43,De 16 a 19 años,Hombres,Servicios,202001,19.8,78257
+42,De 16 a 19 años,Hombres,Servicios,202002,19.3,92144
+41,De 16 a 19 años,Hombres,Servicios,202003,20.3,572036
+40,De 16 a 19 años,Hombres,Servicios,202004,12.8,1177854
+39,De 16 a 19 años,Hombres,Servicios,202101,10.7,1319036
+38,De 16 a 19 años,Hombres,Servicios,202102,10.0,534329
+37,De 16 a 19 años,Hombres,Servicios,202103,7.0,1108678
+36,De 16 a 19 años,Hombres,Servicios,202104,14.1,1825734
+131,De 20 a 24 años,Hombres,Agricultura,201901,12.6,0
+130,De 20 a 24 años,Hombres,Agricultura,201902,12.9,0
+129,De 20 a 24 años,Hombres,Agricultura,201903,12.5,0
+128,De 20 a 24 años,Hombres,Agricultura,201904,15.1,0
+127,De 20 a 24 años,Hombres,Agricultura,202001,16.0,78257
+126,De 20 a 24 años,Hombres,Agricultura,202002,14.0,92144
+125,De 20 a 24 años,Hombres,Agricultura,202003,12.8,572036
+124,De 20 a 24 años,Hombres,Agricultura,202004,17.0,1177854
+123,De 20 a 24 años,Hombres,Agricultura,202101,15.0,1319036
+122,De 20 a 24 años,Hombres,Agricultura,202102,9.3,534329
+121,De 20 a 24 años,Hombres,Agricultura,202103,11.8,1108678
+120,De 20 a 24 años,Hombres,Agricultura,202104,7.4,1825734
+155,De 20 a 24 años,Hombres,Construcción,201901,7.7,0
+154,De 20 a 24 años,Hombres,Construcción,201902,4.4,0
+153,De 20 a 24 años,Hombres,Construcción,201903,4.5,0
+152,De 20 a 24 años,Hombres,Construcción,201904,6.3,0
+151,De 20 a 24 años,Hombres,Construcción,202001,10.4,78257
+150,De 20 a 24 años,Hombres,Construcción,202002,9.6,92144
+149,De 20 a 24 años,Hombres,Construcción,202003,9.9,572036
+148,De 20 a 24 años,Hombres,Construcción,202004,8.8,1177854
+147,De 20 a 24 años,Hombres,Construcción,202101,6.9,1319036
+146,De 20 a 24 años,Hombres,Construcción,202102,8.4,534329
+145,De 20 a 24 años,Hombres,Construcción,202103,5.3,1108678
+144,De 20 a 24 años,Hombres,Construcción,202104,4.9,1825734
+143,De 20 a 24 años,Hombres,Industria,201901,15.7,0
+142,De 20 a 24 años,Hombres,Industria,201902,12.4,0
+141,De 20 a 24 años,Hombres,Industria,201903,12.2,0
+140,De 20 a 24 años,Hombres,Industria,201904,12.1,0
+139,De 20 a 24 años,Hombres,Industria,202001,12.2,78257
+138,De 20 a 24 años,Hombres,Industria,202002,18.0,92144
+137,De 20 a 24 años,Hombres,Industria,202003,18.7,572036
+136,De 20 a 24 años,Hombres,Industria,202004,12.1,1177854
+135,De 20 a 24 años,Hombres,Industria,202101,15.9,1319036
+134,De 20 a 24 años,Hombres,Industria,202102,13.9,534329
+133,De 20 a 24 años,Hombres,Industria,202103,12.0,1108678
+132,De 20 a 24 años,Hombres,Industria,202104,10.8,1825734
+179,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201901,89.4,0
+178,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201902,87.6,0
+177,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201903,93.1,0
+176,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201904,74.2,0
+175,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202001,69.4,78257
+174,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202002,71.9,92144
+173,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202003,91.0,572036
+172,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202004,102.5,1177854
+171,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202101,106.7,1319036
+170,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202102,136.6,534329
+169,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202103,112.3,1108678
+168,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202104,88.7,1825734
+167,De 20 a 24 años,Hombres,Servicios,201901,71.5,0
+166,De 20 a 24 años,Hombres,Servicios,201902,75.5,0
+165,De 20 a 24 años,Hombres,Servicios,201903,78.7,0
+164,De 20 a 24 años,Hombres,Servicios,201904,72.6,0
+163,De 20 a 24 años,Hombres,Servicios,202001,89.1,78257
+162,De 20 a 24 años,Hombres,Servicios,202002,101.1,92144
+161,De 20 a 24 años,Hombres,Servicios,202003,111.0,572036
+160,De 20 a 24 años,Hombres,Servicios,202004,94.0,1177854
+159,De 20 a 24 años,Hombres,Servicios,202101,83.3,1319036
+158,De 20 a 24 años,Hombres,Servicios,202102,61.3,534329
+157,De 20 a 24 años,Hombres,Servicios,202103,62.6,1108678
+156,De 20 a 24 años,Hombres,Servicios,202104,64.6,1825734
+251,De 25 a 54 años,Hombres,Agricultura,201901,81.3,0
+250,De 25 a 54 años,Hombres,Agricultura,201902,79.1,0
+249,De 25 a 54 años,Hombres,Agricultura,201903,93.7,0
+248,De 25 a 54 años,Hombres,Agricultura,201904,81.6,0
+247,De 25 a 54 años,Hombres,Agricultura,202001,68.7,78257
+246,De 25 a 54 años,Hombres,Agricultura,202002,73.5,92144
+245,De 25 a 54 años,Hombres,Agricultura,202003,99.5,572036
+244,De 25 a 54 años,Hombres,Agricultura,202004,84.6,1177854
+243,De 25 a 54 años,Hombres,Agricultura,202101,78.4,1319036
+242,De 25 a 54 años,Hombres,Agricultura,202102,87.2,534329
+241,De 25 a 54 años,Hombres,Agricultura,202103,89.0,1108678
+240,De 25 a 54 años,Hombres,Agricultura,202104,74.1,1825734
+275,De 25 a 54 años,Hombres,Construcción,201901,100.8,0
+274,De 25 a 54 años,Hombres,Construcción,201902,109.0,0
+273,De 25 a 54 años,Hombres,Construcción,201903,107.5,0
+272,De 25 a 54 años,Hombres,Construcción,201904,108.9,0
+271,De 25 a 54 años,Hombres,Construcción,202001,100.0,78257
+270,De 25 a 54 años,Hombres,Construcción,202002,129.6,92144
+269,De 25 a 54 años,Hombres,Construcción,202003,116.5,572036
+268,De 25 a 54 años,Hombres,Construcción,202004,114.0,1177854
+267,De 25 a 54 años,Hombres,Construcción,202101,111.9,1319036
+266,De 25 a 54 años,Hombres,Construcción,202102,85.8,534329
+265,De 25 a 54 años,Hombres,Construcción,202103,108.4,1108678
+264,De 25 a 54 años,Hombres,Construcción,202104,84.7,1825734
+263,De 25 a 54 años,Hombres,Industria,201901,91.2,0
+262,De 25 a 54 años,Hombres,Industria,201902,79.2,0
+261,De 25 a 54 años,Hombres,Industria,201903,79.0,0
+260,De 25 a 54 años,Hombres,Industria,201904,83.8,0
+259,De 25 a 54 años,Hombres,Industria,202001,88.7,78257
+258,De 25 a 54 años,Hombres,Industria,202002,122.8,92144
+257,De 25 a 54 años,Hombres,Industria,202003,93.2,572036
+256,De 25 a 54 años,Hombres,Industria,202004,95.9,1177854
+255,De 25 a 54 años,Hombres,Industria,202101,99.2,1319036
+254,De 25 a 54 años,Hombres,Industria,202102,69.4,534329
+253,De 25 a 54 años,Hombres,Industria,202103,69.9,1108678
+252,De 25 a 54 años,Hombres,Industria,202104,81.7,1825734
+299,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201901,425.5,0
+298,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201902,397.2,0
+297,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201903,387.8,0
+296,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201904,388.3,0
+295,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202001,373.9,78257
+294,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202002,341.5,92144
+293,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202003,395.3,572036
+292,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202004,423.2,1177854
+291,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202101,444.0,1319036
+290,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202102,512.7,534329
+289,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202103,452.0,1108678
+288,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202104,407.2,1825734
+287,De 25 a 54 años,Hombres,Servicios,201901,363.6,0
+286,De 25 a 54 años,Hombres,Servicios,201902,351.6,0
+285,De 25 a 54 años,Hombres,Servicios,201903,324.0,0
+284,De 25 a 54 años,Hombres,Servicios,201904,342.3,0
+283,De 25 a 54 años,Hombres,Servicios,202001,418.6,78257
+282,De 25 a 54 años,Hombres,Servicios,202002,478.4,92144
+281,De 25 a 54 años,Hombres,Servicios,202003,469.0,572036
+280,De 25 a 54 años,Hombres,Servicios,202004,441.8,1177854
+279,De 25 a 54 años,Hombres,Servicios,202101,401.7,1319036
+278,De 25 a 54 años,Hombres,Servicios,202102,305.8,534329
+277,De 25 a 54 años,Hombres,Servicios,202103,315.5,1108678
+276,De 25 a 54 años,Hombres,Servicios,202104,301.9,1825734
+431,55 y más años,Mujeres,Agricultura,201901,5.6,0
+430,55 y más años,Mujeres,Agricultura,201902,7.7,0
+429,55 y más años,Mujeres,Agricultura,201903,8.4,0
+428,55 y más años,Mujeres,Agricultura,201904,7.3,0
+427,55 y más años,Mujeres,Agricultura,202001,7.4,78257
+426,55 y más años,Mujeres,Agricultura,202002,7.8,92144
+425,55 y más años,Mujeres,Agricultura,202003,9.1,572036
+424,55 y más años,Mujeres,Agricultura,202004,2.9,1177854
+423,55 y más años,Mujeres,Agricultura,202101,5.4,1319036
+422,55 y más años,Mujeres,Agricultura,202102,4.9,534329
+421,55 y más años,Mujeres,Agricultura,202103,8.5,1108678
+420,55 y más años,Mujeres,Agricultura,202104,6.7,1825734
+455,55 y más años,Mujeres,Construcción,201901,0.1,0
+454,55 y más años,Mujeres,Construcción,201902,0.1,0
+453,55 y más años,Mujeres,Construcción,201903,0.2,0
+452,55 y más años,Mujeres,Construcción,201904,0.1,0
+451,55 y más años,Mujeres,Construcción,202001,0.3,78257
+450,55 y más años,Mujeres,Construcción,202002,0.3,92144
+449,55 y más años,Mujeres,Construcción,202003,0.4,572036
+448,55 y más años,Mujeres,Construcción,202004,0.4,1177854
+447,55 y más años,Mujeres,Construcción,202101,1.3,1319036
+446,55 y más años,Mujeres,Construcción,202102,1.9,534329
+444,55 y más años,Mujeres,Construcción,202104,0.3,1825734
+443,55 y más años,Mujeres,Industria,201901,2.4,0
+442,55 y más años,Mujeres,Industria,201902,5.2,0
+441,55 y más años,Mujeres,Industria,201903,7.9,0
+440,55 y más años,Mujeres,Industria,201904,6.6,0
+439,55 y más años,Mujeres,Industria,202001,7.0,78257
+438,55 y más años,Mujeres,Industria,202002,5.1,92144
+437,55 y más años,Mujeres,Industria,202003,7.1,572036
+436,55 y más años,Mujeres,Industria,202004,8.7,1177854
+435,55 y más años,Mujeres,Industria,202101,7.1,1319036
+434,55 y más años,Mujeres,Industria,202102,5.3,534329
+433,55 y más años,Mujeres,Industria,202103,4.3,1108678
+432,55 y más años,Mujeres,Industria,202104,3.7,1825734
+479,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201901,163.9,0
+478,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201902,159.0,0
+477,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201903,149.6,0
+476,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201904,159.2,0
+475,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202001,167.8,78257
+474,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202002,142.5,92144
+473,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202003,159.4,572036
+472,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202004,179.0,1177854
+471,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202101,181.2,1319036
+470,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202102,214.7,534329
+469,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202103,222.6,1108678
+468,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202104,215.0,1825734
+467,55 y más años,Mujeres,Servicios,201901,71.1,0
+466,55 y más años,Mujeres,Servicios,201902,66.6,0
+465,55 y más años,Mujeres,Servicios,201903,70.8,0
+464,55 y más años,Mujeres,Servicios,201904,81.6,0
+463,55 y más años,Mujeres,Servicios,202001,79.5,78257
+462,55 y más años,Mujeres,Servicios,202002,73.9,92144
+461,55 y más años,Mujeres,Servicios,202003,79.0,572036
+460,55 y más años,Mujeres,Servicios,202004,84.7,1177854
+459,55 y más años,Mujeres,Servicios,202101,84.8,1319036
+458,55 y más años,Mujeres,Servicios,202102,68.1,534329
+457,55 y más años,Mujeres,Servicios,202103,101.5,1108678
+456,55 y más años,Mujeres,Servicios,202104,83.1,1825734
+71,De 16 a 19 años,Mujeres,Agricultura,201901,0.6,0
+70,De 16 a 19 años,Mujeres,Agricultura,201902,1.4,0
+69,De 16 a 19 años,Mujeres,Agricultura,201903,1.2,0
+68,De 16 a 19 años,Mujeres,Agricultura,201904,1.4,0
+67,De 16 a 19 años,Mujeres,Agricultura,202001,0.7,78257
+66,De 16 a 19 años,Mujeres,Agricultura,202002,0.3,92144
+65,De 16 a 19 años,Mujeres,Agricultura,202003,1.1,572036
+64,De 16 a 19 años,Mujeres,Agricultura,202004,0.7,1177854
+63,De 16 a 19 años,Mujeres,Agricultura,202101,0.5,1319036
+62,De 16 a 19 años,Mujeres,Agricultura,202102,0.4,534329
+61,De 16 a 19 años,Mujeres,Agricultura,202103,0.6,1108678
+60,De 16 a 19 años,Mujeres,Agricultura,202104,1.3,1825734
+83,De 16 a 19 años,Mujeres,Industria,201901,1.3,0
+82,De 16 a 19 años,Mujeres,Industria,201902,1.0,0
+81,De 16 a 19 años,Mujeres,Industria,201903,0.2,0
+78,De 16 a 19 años,Mujeres,Industria,202002,1.1,92144
+77,De 16 a 19 años,Mujeres,Industria,202003,0.1,572036
+76,De 16 a 19 años,Mujeres,Industria,202004,1.2,1177854
+75,De 16 a 19 años,Mujeres,Industria,202101,0.8,1319036
+74,De 16 a 19 años,Mujeres,Industria,202102,0.2,534329
+73,De 16 a 19 años,Mujeres,Industria,202103,0.2,1108678
+72,De 16 a 19 años,Mujeres,Industria,202104,0.4,1825734
+119,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201901,44.9,0
+118,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201902,40.4,0
+117,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201903,45.5,0
+116,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201904,33.4,0
+115,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202001,30.0,78257
+114,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202002,27.1,92144
+113,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202003,43.8,572036
+112,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202004,43.0,1177854
+111,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202101,33.2,1319036
+110,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202102,54.7,534329
+109,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202103,50.1,1108678
+108,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202104,39.9,1825734
+107,De 16 a 19 años,Mujeres,Servicios,201901,15.1,0
+106,De 16 a 19 años,Mujeres,Servicios,201902,14.5,0
+105,De 16 a 19 años,Mujeres,Servicios,201903,11.5,0
+104,De 16 a 19 años,Mujeres,Servicios,201904,14.7,0
+103,De 16 a 19 años,Mujeres,Servicios,202001,15.4,78257
+102,De 16 a 19 años,Mujeres,Servicios,202002,17.4,92144
+101,De 16 a 19 años,Mujeres,Servicios,202003,21.4,572036
+100,De 16 a 19 años,Mujeres,Servicios,202004,17.4,1177854
+99,De 16 a 19 años,Mujeres,Servicios,202101,13.9,1319036
+98,De 16 a 19 años,Mujeres,Servicios,202102,17.5,534329
+97,De 16 a 19 años,Mujeres,Servicios,202103,11.2,1108678
+96,De 16 a 19 años,Mujeres,Servicios,202104,11.5,1825734
+191,De 20 a 24 años,Mujeres,Agricultura,201901,5.8,0
+190,De 20 a 24 años,Mujeres,Agricultura,201902,4.9,0
+189,De 20 a 24 años,Mujeres,Agricultura,201903,5.7,0
+188,De 20 a 24 años,Mujeres,Agricultura,201904,2.2,0
+187,De 20 a 24 años,Mujeres,Agricultura,202001,2.4,78257
+186,De 20 a 24 años,Mujeres,Agricultura,202002,4.0,92144
+185,De 20 a 24 años,Mujeres,Agricultura,202003,3.7,572036
+184,De 20 a 24 años,Mujeres,Agricultura,202004,4.3,1177854
+183,De 20 a 24 años,Mujeres,Agricultura,202101,7.0,1319036
+182,De 20 a 24 años,Mujeres,Agricultura,202102,7.6,534329
+181,De 20 a 24 años,Mujeres,Agricultura,202103,3.7,1108678
+180,De 20 a 24 años,Mujeres,Agricultura,202104,4.8,1825734
+215,De 20 a 24 años,Mujeres,Construcción,201901,0.2,0
+211,De 20 a 24 años,Mujeres,Construcción,202001,0.2,78257
+210,De 20 a 24 años,Mujeres,Construcción,202002,0.2,92144
+209,De 20 a 24 años,Mujeres,Construcción,202003,0.5,572036
+208,De 20 a 24 años,Mujeres,Construcción,202004,1.1,1177854
+204,De 20 a 24 años,Mujeres,Construcción,202104,0.5,1825734
+203,De 20 a 24 años,Mujeres,Industria,201901,7.3,0
+202,De 20 a 24 años,Mujeres,Industria,201902,4.5,0
+201,De 20 a 24 años,Mujeres,Industria,201903,2.8,0
+200,De 20 a 24 años,Mujeres,Industria,201904,4.4,0
+199,De 20 a 24 años,Mujeres,Industria,202001,4.1,78257
+198,De 20 a 24 años,Mujeres,Industria,202002,5.6,92144
+197,De 20 a 24 años,Mujeres,Industria,202003,4.9,572036
+196,De 20 a 24 años,Mujeres,Industria,202004,5.3,1177854
+195,De 20 a 24 años,Mujeres,Industria,202101,6.4,1319036
+194,De 20 a 24 años,Mujeres,Industria,202102,7.3,534329
+193,De 20 a 24 años,Mujeres,Industria,202103,6.0,1108678
+192,De 20 a 24 años,Mujeres,Industria,202104,4.2,1825734
+239,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201901,73.9,0
+238,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201902,86.6,0
+237,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201903,97.4,0
+236,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201904,78.5,0
+235,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202001,72.7,78257
+234,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202002,63.0,92144
+233,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202003,101.2,572036
+232,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202004,105.2,1177854
+231,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202101,101.7,1319036
+230,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202102,124.0,534329
+229,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202103,99.9,1108678
+228,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202104,89.6,1825734
+227,De 20 a 24 años,Mujeres,Servicios,201901,101.5,0
+226,De 20 a 24 años,Mujeres,Servicios,201902,89.0,0
+225,De 20 a 24 años,Mujeres,Servicios,201903,88.1,0
+224,De 20 a 24 años,Mujeres,Servicios,201904,82.7,0
+223,De 20 a 24 años,Mujeres,Servicios,202001,93.2,78257
+222,De 20 a 24 años,Mujeres,Servicios,202002,114.5,92144
+221,De 20 a 24 años,Mujeres,Servicios,202003,118.5,572036
+220,De 20 a 24 años,Mujeres,Servicios,202004,91.0,1177854
+219,De 20 a 24 años,Mujeres,Servicios,202101,95.4,1319036
+218,De 20 a 24 años,Mujeres,Servicios,202102,76.1,534329
+217,De 20 a 24 años,Mujeres,Servicios,202103,72.4,1108678
+216,De 20 a 24 años,Mujeres,Servicios,202104,58.0,1825734
+311,De 25 a 54 años,Mujeres,Agricultura,201901,53.1,0
+310,De 25 a 54 años,Mujeres,Agricultura,201902,54.0,0
+309,De 25 a 54 años,Mujeres,Agricultura,201903,58.5,0
+308,De 25 a 54 años,Mujeres,Agricultura,201904,54.3,0
+307,De 25 a 54 años,Mujeres,Agricultura,202001,47.4,78257
+306,De 25 a 54 años,Mujeres,Agricultura,202002,44.0,92144
+305,De 25 a 54 años,Mujeres,Agricultura,202003,58.0,572036
+304,De 25 a 54 años,Mujeres,Agricultura,202004,52.0,1177854
+303,De 25 a 54 años,Mujeres,Agricultura,202101,51.2,1319036
+302,De 25 a 54 años,Mujeres,Agricultura,202102,39.3,534329
+301,De 25 a 54 años,Mujeres,Agricultura,202103,54.8,1108678
+300,De 25 a 54 años,Mujeres,Agricultura,202104,48.7,1825734
+335,De 25 a 54 años,Mujeres,Construcción,201901,4.2,0
+334,De 25 a 54 años,Mujeres,Construcción,201902,3.1,0
+333,De 25 a 54 años,Mujeres,Construcción,201903,5.4,0
+332,De 25 a 54 años,Mujeres,Construcción,201904,6.9,0
+331,De 25 a 54 años,Mujeres,Construcción,202001,6.5,78257
+330,De 25 a 54 años,Mujeres,Construcción,202002,3.5,92144
+329,De 25 a 54 años,Mujeres,Construcción,202003,5.0,572036
+328,De 25 a 54 años,Mujeres,Construcción,202004,5.9,1177854
+327,De 25 a 54 años,Mujeres,Construcción,202101,5.2,1319036
+326,De 25 a 54 años,Mujeres,Construcción,202102,4.2,534329
+325,De 25 a 54 años,Mujeres,Construcción,202103,2.5,1108678
+324,De 25 a 54 años,Mujeres,Construcción,202104,3.4,1825734
+323,De 25 a 54 años,Mujeres,Industria,201901,48.1,0
+322,De 25 a 54 años,Mujeres,Industria,201902,46.7,0
+321,De 25 a 54 años,Mujeres,Industria,201903,33.2,0
+320,De 25 a 54 años,Mujeres,Industria,201904,41.9,0
+319,De 25 a 54 años,Mujeres,Industria,202001,48.6,78257
+318,De 25 a 54 años,Mujeres,Industria,202002,57.5,92144
+317,De 25 a 54 años,Mujeres,Industria,202003,55.7,572036
+316,De 25 a 54 años,Mujeres,Industria,202004,52.3,1177854
+315,De 25 a 54 años,Mujeres,Industria,202101,53.2,1319036
+314,De 25 a 54 años,Mujeres,Industria,202102,41.0,534329
+313,De 25 a 54 años,Mujeres,Industria,202103,28.3,1108678
+312,De 25 a 54 años,Mujeres,Industria,202104,27.4,1825734
+359,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201901,637.7,0
+358,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201902,622.4,0
+357,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201903,617.7,0
+356,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,201904,610.2,0
+355,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202001,597.9,78257
+354,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202002,460.0,92144
+353,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202003,616.0,572036
+352,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202004,694.6,1177854
+351,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202101,713.7,1319036
+350,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202102,784.6,534329
+349,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202103,677.5,1108678
+348,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202104,634.0,1825734
+347,De 25 a 54 años,Mujeres,Servicios,201901,547.1,0
+346,De 25 a 54 años,Mujeres,Servicios,201902,489.5,0
+345,De 25 a 54 años,Mujeres,Servicios,201903,510.0,0
+344,De 25 a 54 años,Mujeres,Servicios,201904,500.4,0
+343,De 25 a 54 años,Mujeres,Servicios,202001,567.7,78257
+342,De 25 a 54 años,Mujeres,Servicios,202002,672.9,92144
+341,De 25 a 54 años,Mujeres,Servicios,202003,680.7,572036
+340,De 25 a 54 años,Mujeres,Servicios,202004,641.7,1177854
+339,De 25 a 54 años,Mujeres,Servicios,202101,591.8,1319036
+338,De 25 a 54 años,Mujeres,Servicios,202102,452.5,534329
+337,De 25 a 54 años,Mujeres,Servicios,202103,465.2,1108678
+336,De 25 a 54 años,Mujeres,Servicios,202104,423.3,1825734
+120,55 y más años,Hombres,Agricultura,202201,17.560157363012863,1727120
+124,55 y más años,Hombres,Industria,202201,10.026358492063403,1727120
+128,55 y más años,Hombres,Construcción,202201,19.006119993299283,1727120
+132,55 y más años,Hombres,Servicios,202201,55.665899999999375,1727120
+136,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202201,175.3264000000023,1727120
+0,De 16 a 19 años,Hombres,Agricultura,202201,3.741078403263437,1727120
+4,De 16 a 19 años,Hombres,Industria,202201,3.0239637062936797,1727120
+8,De 16 a 19 años,Hombres,Construcción,202201,3.1108828571428218,1727120
+12,De 16 a 19 años,Hombres,Servicios,202201,12.111600000000145,1727120
+16,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202201,45.185650000000095,1727120
+40,De 20 a 24 años,Hombres,Agricultura,202201,9.3431224278499,1727120
+44,De 20 a 24 años,Hombres,Industria,202201,10.82069070346318,1727120
+48,De 20 a 24 años,Hombres,Construcción,202201,5.693160357142847,1727120
+52,De 20 a 24 años,Hombres,Servicios,202201,64.16594999999927,1727120
+56,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202201,91.92228999999924,1727120
+80,De 25 a 54 años,Hombres,Agricultura,202201,77.8902901190475,1727120
+84,De 25 a 54 años,Hombres,Industria,202201,79.52392833333235,1727120
+88,De 25 a 54 años,Hombres,Construcción,202201,91.70884999999882,1727120
+92,De 25 a 54 años,Hombres,Servicios,202201,316.0983000000005,1727120
+96,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202201,427.01890000000526,1727120
+140,55 y más años,Mujeres,Agricultura,202201,5.612303970629141,1727120
+144,55 y más años,Mujeres,Industria,202201,5.263772888329083,1727120
+148,55 y más años,Mujeres,Construcción,202201,0.5595550000000018,1727120
+152,55 y más años,Mujeres,Servicios,202201,83.50726198412737,1727120
+156,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202201,210.45050000000126,1727120
+20,De 16 a 19 años,Mujeres,Agricultura,202201,0.982331290849664,1727120
+24,De 16 a 19 años,Mujeres,Industria,202201,0.6342149019607789,1727120
+28,De 16 a 19 años,Mujeres,Construcción,202201,0.7023901190476145,1727120
+32,De 16 a 19 años,Mujeres,Servicios,202201,12.068600000000027,1727120
+36,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202201,41.49208333333373,1727120
+60,De 20 a 24 años,Mujeres,Agricultura,202201,4.996118681269278,1727120
+64,De 20 a 24 años,Mujeres,Industria,202201,5.005845038245628,1727120
+68,De 20 a 24 años,Mujeres,Construcción,202201,0.6227533333333326,1727120
+72,De 20 a 24 años,Mujeres,Servicios,202201,64.52426000000015,1727120
+76,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202201,91.48962500000012,1727120
+100,De 25 a 54 años,Mujeres,Agricultura,202201,45.99737083333323,1727120
+104,De 25 a 54 años,Mujeres,Industria,202201,31.533650000000314,1727120
+108,De 25 a 54 años,Mujeres,Construcción,202201,3.522256666666703,1727120
+112,De 25 a 54 años,Mujeres,Servicios,202201,456.97039999999623,1727120
+116,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202201,661.3154999999983,1727120
+121,55 y más años,Hombres,Agricultura,202202,17.099240498622503,10549
+125,55 y más años,Hombres,Industria,202202,10.304525443706378,10549
+129,55 y más años,Hombres,Construcción,202202,18.228208229940464,10549
+133,55 y más años,Hombres,Servicios,202202,54.14157440476161,10549
+137,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202202,179.46170000000163,10549
+1,De 16 a 19 años,Hombres,Agricultura,202202,3.84449164502167,10549
+5,De 16 a 19 años,Hombres,Industria,202202,3.628899673684123,10549
+9,De 16 a 19 años,Hombres,Construcción,202202,3.03727716133537,10549
+13,De 16 a 19 años,Hombres,Servicios,202202,11.085511666666703,10549
+17,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202202,51.05859999999996,10549
+41,De 20 a 24 años,Hombres,Agricultura,202202,10.164523734490265,10549
+45,De 20 a 24 años,Hombres,Industria,202202,11.435156227275268,10549
+49,De 20 a 24 años,Hombres,Construcción,202202,6.108424606782123,10549
+53,De 20 a 24 años,Hombres,Servicios,202202,64.65467999999976,10549
+57,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202202,108.3528000000003,10549
+81,De 25 a 54 años,Hombres,Agricultura,202202,81.45172684523773,10549
+85,De 25 a 54 años,Hombres,Industria,202202,76.82599541666632,10549
+89,De 25 a 54 años,Hombres,Construcción,202202,95.53673083333314,10549
+93,De 25 a 54 años,Hombres,Servicios,202202,320.2154999999983,10549
+97,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202202,457.9930000000042,10549
+141,55 y más años,Mujeres,Agricultura,202202,6.170000910280083,10549
+145,55 y más años,Mujeres,Industria,202202,5.608639181126888,10549
+149,55 y más años,Mujeres,Construcción,202202,1.0292868650793519,10549
+153,55 y más años,Mujeres,Servicios,202202,78.9249826190477,10549
+157,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202202,211.93634000000213,10549
+21,De 16 a 19 años,Mujeres,Agricultura,202202,0.8068916948900741,10549
+25,De 16 a 19 años,Mujeres,Industria,202202,0.4980772432306212,10549
+29,De 16 a 19 años,Mujeres,Construcción,202202,0.7793886904761889,10549
+33,De 16 a 19 años,Mujeres,Servicios,202202,13.269160000000054,10549
+37,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202202,45.435399999999824,10549
+61,De 20 a 24 años,Mujeres,Agricultura,202202,5.086205121864931,10549
+65,De 20 a 24 años,Mujeres,Industria,202202,5.206878559815862,10549
+69,De 20 a 24 años,Mujeres,Construcción,202202,1.0231674603174543,10549
+73,De 20 a 24 años,Mujeres,Servicios,202202,70.67720749999995,10549
+77,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202202,104.65640000000006,10549
+101,De 25 a 54 años,Mujeres,Agricultura,202202,45.26723826590104,10549
+105,De 25 a 54 años,Mujeres,Industria,202202,33.97542221611726,10549
+109,De 25 a 54 años,Mujeres,Construcción,202202,3.860600000000009,10549
+113,De 25 a 54 años,Mujeres,Servicios,202202,467.48360000000037,10549
+117,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202202,686.934899999994,10549
+122,55 y más años,Hombres,Agricultura,202203,17.099240498622503,1840
+126,55 y más años,Hombres,Industria,202203,10.304525443706378,1840
+130,55 y más años,Hombres,Construcción,202203,18.228208229940464,1840
+134,55 y más años,Hombres,Servicios,202203,54.14157440476161,1840
+138,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202203,179.46170000000163,1840
+2,De 16 a 19 años,Hombres,Agricultura,202203,3.84449164502167,1840
+6,De 16 a 19 años,Hombres,Industria,202203,3.628899673684123,1840
+10,De 16 a 19 años,Hombres,Construcción,202203,3.03727716133537,1840
+14,De 16 a 19 años,Hombres,Servicios,202203,11.085511666666703,1840
+18,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202203,51.05859999999996,1840
+42,De 20 a 24 años,Hombres,Agricultura,202203,10.164523734490265,1840
+46,De 20 a 24 años,Hombres,Industria,202203,11.435156227275268,1840
+50,De 20 a 24 años,Hombres,Construcción,202203,6.108424606782123,1840
+54,De 20 a 24 años,Hombres,Servicios,202203,64.65467999999976,1840
+58,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202203,108.3528000000003,1840
+82,De 25 a 54 años,Hombres,Agricultura,202203,81.45172684523773,1840
+86,De 25 a 54 años,Hombres,Industria,202203,76.82599541666632,1840
+90,De 25 a 54 años,Hombres,Construcción,202203,95.53673083333314,1840
+94,De 25 a 54 años,Hombres,Servicios,202203,320.2154999999983,1840
+98,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202203,457.9930000000042,1840
+142,55 y más años,Mujeres,Agricultura,202203,6.170000910280083,1840
+146,55 y más años,Mujeres,Industria,202203,5.608639181126888,1840
+150,55 y más años,Mujeres,Construcción,202203,1.0292868650793519,1840
+154,55 y más años,Mujeres,Servicios,202203,78.9249826190477,1840
+158,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202203,211.93634000000213,1840
+22,De 16 a 19 años,Mujeres,Agricultura,202203,0.8068916948900741,1840
+26,De 16 a 19 años,Mujeres,Industria,202203,0.4980772432306212,1840
+30,De 16 a 19 años,Mujeres,Construcción,202203,0.7793886904761889,1840
+34,De 16 a 19 años,Mujeres,Servicios,202203,13.269160000000054,1840
+38,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202203,45.435399999999824,1840
+62,De 20 a 24 años,Mujeres,Agricultura,202203,5.086205121864931,1840
+66,De 20 a 24 años,Mujeres,Industria,202203,5.206878559815862,1840
+70,De 20 a 24 años,Mujeres,Construcción,202203,1.0231674603174543,1840
+74,De 20 a 24 años,Mujeres,Servicios,202203,70.67720749999995,1840
+78,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202203,104.65640000000006,1840
+102,De 25 a 54 años,Mujeres,Agricultura,202203,45.26723826590104,1840
+106,De 25 a 54 años,Mujeres,Industria,202203,33.97542221611726,1840
+110,De 25 a 54 años,Mujeres,Construcción,202203,3.860600000000009,1840
+114,De 25 a 54 años,Mujeres,Servicios,202203,467.48360000000037,1840
+118,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202203,686.934899999994,1840
+123,55 y más años,Hombres,Agricultura,202204,17.099240498622503,3742
+127,55 y más años,Hombres,Industria,202204,10.304525443706378,3742
+131,55 y más años,Hombres,Construcción,202204,18.228208229940464,3742
+135,55 y más años,Hombres,Servicios,202204,54.14157440476161,3742
+139,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202204,179.46170000000163,3742
+3,De 16 a 19 años,Hombres,Agricultura,202204,3.84449164502167,3742
+7,De 16 a 19 años,Hombres,Industria,202204,3.628899673684123,3742
+11,De 16 a 19 años,Hombres,Construcción,202204,3.03727716133537,3742
+15,De 16 a 19 años,Hombres,Servicios,202204,11.085511666666703,3742
+19,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202204,51.05859999999996,3742
+43,De 20 a 24 años,Hombres,Agricultura,202204,10.164523734490265,3742
+47,De 20 a 24 años,Hombres,Industria,202204,11.435156227275268,3742
+51,De 20 a 24 años,Hombres,Construcción,202204,6.108424606782123,3742
+55,De 20 a 24 años,Hombres,Servicios,202204,64.65467999999976,3742
+59,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202204,108.3528000000003,3742
+83,De 25 a 54 años,Hombres,Agricultura,202204,81.45172684523773,3742
+87,De 25 a 54 años,Hombres,Industria,202204,76.82599541666632,3742
+91,De 25 a 54 años,Hombres,Construcción,202204,95.53673083333314,3742
+95,De 25 a 54 años,Hombres,Servicios,202204,320.2154999999983,3742
+99,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202204,457.9930000000042,3742
+143,55 y más años,Mujeres,Agricultura,202204,6.170000910280083,3742
+147,55 y más años,Mujeres,Industria,202204,5.608639181126888,3742
+151,55 y más años,Mujeres,Construcción,202204,1.0292868650793519,3742
+155,55 y más años,Mujeres,Servicios,202204,78.9249826190477,3742
+159,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202204,211.93634000000213,3742
+23,De 16 a 19 años,Mujeres,Agricultura,202204,0.8068916948900741,3742
+27,De 16 a 19 años,Mujeres,Industria,202204,0.4980772432306212,3742
+31,De 16 a 19 años,Mujeres,Construcción,202204,0.7793886904761889,3742
+35,De 16 a 19 años,Mujeres,Servicios,202204,13.269160000000054,3742
+39,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202204,45.435399999999824,3742
+63,De 20 a 24 años,Mujeres,Agricultura,202204,5.086205121864931,3742
+67,De 20 a 24 años,Mujeres,Industria,202204,5.206878559815862,3742
+71,De 20 a 24 años,Mujeres,Construcción,202204,1.0231674603174543,3742
+75,De 20 a 24 años,Mujeres,Servicios,202204,70.67720749999995,3742
+79,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202204,104.65640000000006,3742
+103,De 25 a 54 años,Mujeres,Agricultura,202204,45.26723826590104,3742
+107,De 25 a 54 años,Mujeres,Industria,202204,33.97542221611726,3742
+111,De 25 a 54 años,Mujeres,Construcción,202204,3.860600000000009,3742
+115,De 25 a 54 años,Mujeres,Servicios,202204,467.48360000000037,3742
+119,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202204,686.934899999994,3742
+280,55 y más años,Hombres,Agricultura,202301,17.099240498622503,33763
+284,55 y más años,Hombres,Industria,202301,10.304525443706378,33763
+288,55 y más años,Hombres,Construcción,202301,18.228208229940464,33763
+292,55 y más años,Hombres,Servicios,202301,54.14157440476161,33763
+296,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202301,179.46170000000163,33763
+160,De 16 a 19 años,Hombres,Agricultura,202301,3.84449164502167,33763
+164,De 16 a 19 años,Hombres,Industria,202301,3.628899673684123,33763
+168,De 16 a 19 años,Hombres,Construcción,202301,3.03727716133537,33763
+172,De 16 a 19 años,Hombres,Servicios,202301,11.085511666666703,33763
+176,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202301,51.05859999999996,33763
+200,De 20 a 24 años,Hombres,Agricultura,202301,10.164523734490265,33763
+204,De 20 a 24 años,Hombres,Industria,202301,11.435156227275268,33763
+208,De 20 a 24 años,Hombres,Construcción,202301,6.108424606782123,33763
+212,De 20 a 24 años,Hombres,Servicios,202301,64.65467999999976,33763
+216,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202301,108.3528000000003,33763
+240,De 25 a 54 años,Hombres,Agricultura,202301,81.45172684523773,33763
+244,De 25 a 54 años,Hombres,Industria,202301,76.82599541666632,33763
+248,De 25 a 54 años,Hombres,Construcción,202301,95.53673083333314,33763
+252,De 25 a 54 años,Hombres,Servicios,202301,320.2154999999983,33763
+256,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202301,457.9930000000042,33763
+300,55 y más años,Mujeres,Agricultura,202301,6.170000910280083,33763
+304,55 y más años,Mujeres,Industria,202301,5.608639181126888,33763
+308,55 y más años,Mujeres,Construcción,202301,1.0292868650793519,33763
+312,55 y más años,Mujeres,Servicios,202301,78.9249826190477,33763
+316,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202301,211.93634000000213,33763
+180,De 16 a 19 años,Mujeres,Agricultura,202301,0.8068916948900741,33763
+184,De 16 a 19 años,Mujeres,Industria,202301,0.4980772432306212,33763
+188,De 16 a 19 años,Mujeres,Construcción,202301,0.7793886904761889,33763
+192,De 16 a 19 años,Mujeres,Servicios,202301,13.269160000000054,33763
+196,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202301,45.435399999999824,33763
+220,De 20 a 24 años,Mujeres,Agricultura,202301,5.086205121864931,33763
+224,De 20 a 24 años,Mujeres,Industria,202301,5.206878559815862,33763
+228,De 20 a 24 años,Mujeres,Construcción,202301,1.0231674603174543,33763
+232,De 20 a 24 años,Mujeres,Servicios,202301,70.67720749999995,33763
+236,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202301,104.65640000000006,33763
+260,De 25 a 54 años,Mujeres,Agricultura,202301,45.26723826590104,33763
+264,De 25 a 54 años,Mujeres,Industria,202301,33.97542221611726,33763
+268,De 25 a 54 años,Mujeres,Construcción,202301,3.860600000000009,33763
+272,De 25 a 54 años,Mujeres,Servicios,202301,467.48360000000037,33763
+276,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202301,686.934899999994,33763
+281,55 y más años,Hombres,Agricultura,202302,17.099240498622503,10550
+285,55 y más años,Hombres,Industria,202302,10.304525443706378,10550
+289,55 y más años,Hombres,Construcción,202302,18.228208229940464,10550
+293,55 y más años,Hombres,Servicios,202302,54.14157440476161,10550
+297,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202302,179.46170000000163,10550
+161,De 16 a 19 años,Hombres,Agricultura,202302,3.84449164502167,10550
+165,De 16 a 19 años,Hombres,Industria,202302,3.628899673684123,10550
+169,De 16 a 19 años,Hombres,Construcción,202302,3.03727716133537,10550
+173,De 16 a 19 años,Hombres,Servicios,202302,11.085511666666703,10550
+177,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202302,51.05859999999996,10550
+201,De 20 a 24 años,Hombres,Agricultura,202302,10.164523734490265,10550
+205,De 20 a 24 años,Hombres,Industria,202302,11.435156227275268,10550
+209,De 20 a 24 años,Hombres,Construcción,202302,6.108424606782123,10550
+213,De 20 a 24 años,Hombres,Servicios,202302,64.65467999999976,10550
+217,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202302,108.3528000000003,10550
+241,De 25 a 54 años,Hombres,Agricultura,202302,81.45172684523773,10550
+245,De 25 a 54 años,Hombres,Industria,202302,76.82599541666632,10550
+249,De 25 a 54 años,Hombres,Construcción,202302,95.53673083333314,10550
+253,De 25 a 54 años,Hombres,Servicios,202302,320.2154999999983,10550
+257,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202302,457.9930000000042,10550
+301,55 y más años,Mujeres,Agricultura,202302,6.170000910280083,10550
+305,55 y más años,Mujeres,Industria,202302,5.608639181126888,10550
+309,55 y más años,Mujeres,Construcción,202302,1.0292868650793519,10550
+313,55 y más años,Mujeres,Servicios,202302,78.9249826190477,10550
+317,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202302,211.93634000000213,10550
+181,De 16 a 19 años,Mujeres,Agricultura,202302,0.8068916948900741,10550
+185,De 16 a 19 años,Mujeres,Industria,202302,0.4980772432306212,10550
+189,De 16 a 19 años,Mujeres,Construcción,202302,0.7793886904761889,10550
+193,De 16 a 19 años,Mujeres,Servicios,202302,13.269160000000054,10550
+197,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202302,45.435399999999824,10550
+221,De 20 a 24 años,Mujeres,Agricultura,202302,5.086205121864931,10550
+225,De 20 a 24 años,Mujeres,Industria,202302,5.206878559815862,10550
+229,De 20 a 24 años,Mujeres,Construcción,202302,1.0231674603174543,10550
+233,De 20 a 24 años,Mujeres,Servicios,202302,70.67720749999995,10550
+237,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202302,104.65640000000006,10550
+261,De 25 a 54 años,Mujeres,Agricultura,202302,45.26723826590104,10550
+265,De 25 a 54 años,Mujeres,Industria,202302,33.97542221611726,10550
+269,De 25 a 54 años,Mujeres,Construcción,202302,3.860600000000009,10550
+273,De 25 a 54 años,Mujeres,Servicios,202302,467.48360000000037,10550
+277,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202302,686.934899999994,10550
+282,55 y más años,Hombres,Agricultura,202303,17.099240498622503,1855
+286,55 y más años,Hombres,Industria,202303,10.304525443706378,1855
+290,55 y más años,Hombres,Construcción,202303,18.228208229940464,1855
+294,55 y más años,Hombres,Servicios,202303,54.14157440476161,1855
+298,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202303,179.46170000000163,1855
+162,De 16 a 19 años,Hombres,Agricultura,202303,3.84449164502167,1855
+166,De 16 a 19 años,Hombres,Industria,202303,3.628899673684123,1855
+170,De 16 a 19 años,Hombres,Construcción,202303,3.03727716133537,1855
+174,De 16 a 19 años,Hombres,Servicios,202303,11.085511666666703,1855
+178,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202303,51.05859999999996,1855
+202,De 20 a 24 años,Hombres,Agricultura,202303,10.164523734490265,1855
+206,De 20 a 24 años,Hombres,Industria,202303,11.435156227275268,1855
+210,De 20 a 24 años,Hombres,Construcción,202303,6.108424606782123,1855
+214,De 20 a 24 años,Hombres,Servicios,202303,64.65467999999976,1855
+218,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202303,108.3528000000003,1855
+242,De 25 a 54 años,Hombres,Agricultura,202303,81.45172684523773,1855
+246,De 25 a 54 años,Hombres,Industria,202303,76.82599541666632,1855
+250,De 25 a 54 años,Hombres,Construcción,202303,95.53673083333314,1855
+254,De 25 a 54 años,Hombres,Servicios,202303,320.2154999999983,1855
+258,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202303,457.9930000000042,1855
+302,55 y más años,Mujeres,Agricultura,202303,6.170000910280083,1855
+306,55 y más años,Mujeres,Industria,202303,5.608639181126888,1855
+310,55 y más años,Mujeres,Construcción,202303,1.0292868650793519,1855
+314,55 y más años,Mujeres,Servicios,202303,78.9249826190477,1855
+318,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202303,211.93634000000213,1855
+182,De 16 a 19 años,Mujeres,Agricultura,202303,0.8068916948900741,1855
+186,De 16 a 19 años,Mujeres,Industria,202303,0.4980772432306212,1855
+190,De 16 a 19 años,Mujeres,Construcción,202303,0.7793886904761889,1855
+194,De 16 a 19 años,Mujeres,Servicios,202303,13.269160000000054,1855
+198,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202303,45.435399999999824,1855
+222,De 20 a 24 años,Mujeres,Agricultura,202303,5.086205121864931,1855
+226,De 20 a 24 años,Mujeres,Industria,202303,5.206878559815862,1855
+230,De 20 a 24 años,Mujeres,Construcción,202303,1.0231674603174543,1855
+234,De 20 a 24 años,Mujeres,Servicios,202303,70.67720749999995,1855
+238,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202303,104.65640000000006,1855
+262,De 25 a 54 años,Mujeres,Agricultura,202303,45.26723826590104,1855
+266,De 25 a 54 años,Mujeres,Industria,202303,33.97542221611726,1855
+270,De 25 a 54 años,Mujeres,Construcción,202303,3.860600000000009,1855
+274,De 25 a 54 años,Mujeres,Servicios,202303,467.48360000000037,1855
+278,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202303,686.934899999994,1855
+283,55 y más años,Hombres,Agricultura,202304,17.099240498622503,3742
+287,55 y más años,Hombres,Industria,202304,10.304525443706378,3742
+291,55 y más años,Hombres,Construcción,202304,18.228208229940464,3742
+295,55 y más años,Hombres,Servicios,202304,54.14157440476161,3742
+299,55 y más años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202304,179.46170000000163,3742
+163,De 16 a 19 años,Hombres,Agricultura,202304,3.84449164502167,3742
+167,De 16 a 19 años,Hombres,Industria,202304,3.628899673684123,3742
+171,De 16 a 19 años,Hombres,Construcción,202304,3.03727716133537,3742
+175,De 16 a 19 años,Hombres,Servicios,202304,11.085511666666703,3742
+179,De 16 a 19 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202304,51.05859999999996,3742
+203,De 20 a 24 años,Hombres,Agricultura,202304,10.164523734490265,3742
+207,De 20 a 24 años,Hombres,Industria,202304,11.435156227275268,3742
+211,De 20 a 24 años,Hombres,Construcción,202304,6.108424606782123,3742
+215,De 20 a 24 años,Hombres,Servicios,202304,64.65467999999976,3742
+219,De 20 a 24 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202304,108.3528000000003,3742
+243,De 25 a 54 años,Hombres,Agricultura,202304,81.45172684523773,3742
+247,De 25 a 54 años,Hombres,Industria,202304,76.82599541666632,3742
+251,De 25 a 54 años,Hombres,Construcción,202304,95.53673083333314,3742
+255,De 25 a 54 años,Hombres,Servicios,202304,320.2154999999983,3742
+259,De 25 a 54 años,Hombres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202304,457.9930000000042,3742
+303,55 y más años,Mujeres,Agricultura,202304,6.170000910280083,3742
+307,55 y más años,Mujeres,Industria,202304,5.608639181126888,3742
+311,55 y más años,Mujeres,Construcción,202304,1.0292868650793519,3742
+315,55 y más años,Mujeres,Servicios,202304,78.9249826190477,3742
+319,55 y más años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202304,211.93634000000213,3742
+183,De 16 a 19 años,Mujeres,Agricultura,202304,0.8068916948900741,3742
+187,De 16 a 19 años,Mujeres,Industria,202304,0.4980772432306212,3742
+191,De 16 a 19 años,Mujeres,Construcción,202304,0.7793886904761889,3742
+195,De 16 a 19 años,Mujeres,Servicios,202304,13.269160000000054,3742
+199,De 16 a 19 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202304,45.435399999999824,3742
+223,De 20 a 24 años,Mujeres,Agricultura,202304,5.086205121864931,3742
+227,De 20 a 24 años,Mujeres,Industria,202304,5.206878559815862,3742
+231,De 20 a 24 años,Mujeres,Construcción,202304,1.0231674603174543,3742
+235,De 20 a 24 años,Mujeres,Servicios,202304,70.67720749999995,3742
+239,De 20 a 24 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202304,104.65640000000006,3742
+263,De 25 a 54 años,Mujeres,Agricultura,202304,45.26723826590104,3742
+267,De 25 a 54 años,Mujeres,Industria,202304,33.97542221611726,3742
+271,De 25 a 54 años,Mujeres,Construcción,202304,3.860600000000009,3742
+275,De 25 a 54 años,Mujeres,Servicios,202304,467.48360000000037,3742
+279,De 25 a 54 años,Mujeres,Parados que buscan primer empleo o han dejado su último empleo hace más de 1 año,202304,686.934899999994,3742
